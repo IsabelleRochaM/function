@@ -1,6 +1,6 @@
 <?php
-    $val1 = 250; 
-    $val2 = 500; 
+    $val1 = 5;
+    $val2 = 5; 
     $op = "+"; 
     
             function Adi($arg1, $arg2){ 
